@@ -1,13 +1,14 @@
-import org.bukkit.plugin.java.JavaPlugin;
+
+import plugins.SmilePlugin;
 
 public class SmileLib {
-    private static JavaPlugin plugin;
+    private static SmilePlugin plugin;
 
-    public static JavaPlugin getPlugin() {
+    public static SmilePlugin getPlugin() {
         return plugin;
     }
 
-    public static void setPlugin(final JavaPlugin plugin) {
+    public static void setPlugin(final SmilePlugin plugin) {
         SmileLib.plugin = plugin;
     }
 
