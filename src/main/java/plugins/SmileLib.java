@@ -1,5 +1,4 @@
-
-import plugins.SmilePlugin;
+package plugins;
 
 public class SmileLib {
     private static SmilePlugin plugin;

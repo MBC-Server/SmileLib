@@ -1,4 +1,4 @@
-# SmileLib
+# plugins.SmileLib
 
 ---
 ### 具體功能
