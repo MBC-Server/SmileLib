@@ -2,6 +2,7 @@
 /shelf/
 /workspace.xml
 /.settings/
-.replit
-.project
-.classpath
+../.replit
+../.project
+../.classpath
+../.breakpoints
