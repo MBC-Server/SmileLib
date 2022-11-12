@@ -1,3 +1,9 @@
 # 默认忽略的文件
 /shelf/
 /workspace.xml
+/.settings/
+../.replit
+../.project
+../.classpath
+../.breakpoints
+../target/

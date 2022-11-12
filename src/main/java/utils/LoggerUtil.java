@@ -12,6 +12,7 @@ public class LoggerUtil {
     }
     public static void severe(SmilePlugin plugin, String message) {
         Bukkit.getLogger().severe(plugin.getPrefix()+message);
+      
     }
 
 
