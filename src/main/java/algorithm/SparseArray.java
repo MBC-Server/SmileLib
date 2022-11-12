@@ -1,6 +1,6 @@
 package algorithm;
 
-public class Matrix { // 稀疏矩陣，減少記憶體使用量的矩陣 每層矩陣代表一個數值，每個數值都有一個位置，位置由x,y座標決定
+public class SparseArray { // 稀疏矩陣，減少記憶體使用量的矩陣 每層矩陣代表一個數值，每個數值都有一個位置，位置由x,y座標決定
 
     public static int [][] transform(int [][] matrix) { // 轉置矩陣
         int sum = 0; // 找到所有非0數值的個數
