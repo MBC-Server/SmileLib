@@ -1,4 +1,5 @@
 # SmileLib
+[![](https://jitpack.io/v/smile-minecraft/SmileLib.svg)](https://jitpack.io/#smile-minecraft/SmileLib)
 
 ---
 ### 具體功能
