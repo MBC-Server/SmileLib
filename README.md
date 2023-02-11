@@ -16,8 +16,8 @@
 4. REST API方法
 5. Vault經濟集成
 6. Placeholder API集成
-7. Adventurr API集成
-8. Protocolib API
+7. Adventure API集成
+8. ProtocolLib API
 9. GriefPrevention API集成
 10. Bukkit Runnable 定時排程
 11. Threads 多線程
