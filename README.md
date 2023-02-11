@@ -21,4 +21,36 @@
 9. GriefPrevention API集成
 10. Bukkit Runnable 定時排程
 11. Threads 多線程
-   
+
+### 如何引入API
+Maven: 
+```xml
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>
+```
+```xml
+<dependency>
+    <groupId>com.github.smile-minecraft</groupId>
+    <artifactId>SmileLib</artifactId>
+    <version>1.2.0</version>
+</dependency>
+```
+
+Gradle:
+```gradle
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+```gradle
+dependencies {
+    implementation 'com.github.smile-minecraft:SmileLib:1.2.0'
+}
+```
